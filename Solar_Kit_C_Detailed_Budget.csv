@@ -1,0 +1,11 @@
+System,Item,Assumption / description,Estimated price EUR
+C,Kit,XUNZEL PACK ZERO+ AX370L; published listing price,4849
+C,Other materials,Mounting/cabling/protection allowance,300-800
+C,Estimated total,Equipment and materials only; excludes labour and generator,5149-5649
+C,Inverter assumption,5 kW integrated inverter assumed for comparison; exact model not stated,
+C,Battery assumption,10 kWh nominal capacity as indicated in listing,
+C,PV assumption,Assume 4.5 kWp for production estimate; panel inclusion uncertain. If panels excluded, budget ~€800 extra,
+C,MPPT assumption,Assume built-in MPPT; compatible PV string limits assumed,
+C,Generator assumption,Assume generator input accepts 230 V single-phase 50 Hz; set charge power so total load stays within 10 kW continuous,
+C,Link,https://www.leroymerlin.pt/produtos/kit-solar-litio-pack-zero-ax370l-xunzel-bateria-10kwh-inversor-5kw-suportes-98777984.html,
+C,Conclusion,"Packaged option; total rises to about €5,950–€6,450 if panels are not included and an €800 panel allowance is added."
