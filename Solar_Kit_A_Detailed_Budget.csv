@@ -1,0 +1,14 @@
+System,Item,Assumption / description,Estimated price EUR
+A,Inverter,Victron MultiPlus-II 48/5000,879
+A,Battery,1 x Pylontech US5000 4.8 kWh,862
+A,Solar panels,8 x JA Solar 605 W = 4.84 kWp,800
+A,MPPT,Victron SmartSolar MPPT 250/100,620
+A,Mounting,Roof/ground rails and fixings assumption,250-450
+A,AC/DC protection,Breakers fuses isolators and enclosures assumption,200-350
+A,Cabling and earthing,PV/battery/AC cable connectors and earthing assumption,200-350
+A,Surge protection and miscellaneous,SPD labels glands small parts allowance,150-450
+A,Estimated total,Equipment and materials only; excludes labour and generator,3961-4711
+A,Assumptions,"Panel prices approx. €100 each; warranty assumptions are indicative; MPPT string design must fit controller limits.", 
+A,Generator,"Assume 10 kW continuous, 230 V single-phase, 50 Hz; connect to Victron AC-in through correctly rated protection; configure AC input/charging limit.", 
+A,Links,"Inverter https://www.leroymerlin.pt/produtos/inversor-carregador-victron-mplusii-48-5000-70-50-ds-85796318.html | Battery https://www.leroymerlin.pt/produtos/bateria-litio-pylontech-us5000-48v-4-8k-85802015.html | Panels https://www.leroymerlin.pt/produtos/marcas/ja-solar/ | MPPT https://www.victronenergy.com/solar-charge-controllers/smartsolar-mppt-250-100-tr",
+A,Conclusion,"Lowest-cost option, but one battery gives less storage and discharge capacity; manage simultaneous high-power loads."
