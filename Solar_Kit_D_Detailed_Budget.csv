@@ -1,0 +1,11 @@
+System,Item,Assumption / description,Estimated price EUR
+D,Kit,XUNZEL PACK ELITE370L; published listing price,3999
+D,Solar panels,Assume panels not included; 8 x 605 W example array,800
+D,Other materials,Mounting/cabling/protection allowance,300-800
+D,Estimated total if panels excluded,Equipment and materials only; excludes labour and generator,5099-5599
+D,Inverter assumption,5 kW integrated inverter assumed,
+D,Battery assumption,10 kWh nominal capacity as indicated in listing,
+D,MPPT assumption,Assume integrated MPPT and compatible array limits,
+D,Generator assumption,Assume generator input accepts 230 V single-phase 50 Hz; set charge power so total load stays within 10 kW continuous,
+D,Links,"Kit https://www.leroymerlin.pt/produtos/kit-solar-backup-litio-pack-elite370l-xunzel-bateria-10kwh-inversor-5kw-wifi-79677035.html | Panels https://www.leroymerlin.pt/produtos/marcas/ja-solar/",
+D,Conclusion,"Potentially lower-priced packaged system; assumes panels are excluded. If panels are included, subtract the €800 allowance."
