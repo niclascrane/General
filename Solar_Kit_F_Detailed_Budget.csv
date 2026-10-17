@@ -1,0 +1,11 @@
+System,Item,Assumption / description,Estimated price EUR
+F,Complete kit,HISPANUS complete kit listing price,6718.88
+F,Other materials,Mounting/cabling/protection allowance,300-800
+F,Estimated total,Equipment and materials only; excludes labour and generator,7018.88-7518.88
+F,Inverter assumption,5 kW inverter,
+F,Battery assumption,10.24 kWh nominal,
+F,PV assumption,8 x 435 W = 3.48 kWp,
+F,MPPT assumption,Assume integrated MPPT; array input compatibility assumed,
+F,Generator assumption,Assume generator input accepts 230 V single-phase 50 Hz; set charge power so total load stays within 10 kW continuous,
+F,Link,https://www.leroymerlin.pt/produtos/energias-renovaveis/kits-de-energia-solar-fotovoltaica-fora-de-rede/kits-de-energia-solar-fotovoltaica-fora-da-rede-eletrica-p.html,
+F,Conclusion,"More turnkey; assumed 3.48 kWp PV array is smaller than the 4.84 kWp DIY example."
