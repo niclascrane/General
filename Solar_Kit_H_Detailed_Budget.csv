@@ -1,0 +1,11 @@
+System,Item,Assumption / description,Estimated price EUR
+H,Kit,SOL PLANET preliminary listing price; exact product contents unknown,4999
+H,Other materials,Mounting/cabling/protection allowance,300-800
+H,Estimated total,Equipment and materials only; excludes labour and generator,5299-5799
+H,Inverter assumption,5 kW class for comparison only,
+H,Battery assumption,10 kWh nominal for comparison only,
+H,PV assumption,5.0 kWp for production estimate only,
+H,MPPT assumption,Assume integrated MPPT,
+H,Generator assumption,Assume generator input accepts 230 V single-phase 50 Hz; set charge power so total load stays within 10 kW continuous,
+H,Link,https://www.leroymerlin.pt/produtos/energias-renovaveis/kits-de-energia-solar-fotovoltaica-ligados-a-rede/kits-de-energia-solar-fotovoltaica-ligados-a-rede-fox-p.html,
+H,Conclusion,"Preliminary only: price/specification may not represent a confirmed standalone off-grid system."
