@@ -1,0 +1,11 @@
+System,Item,Assumption / description,Estimated price EUR
+E,Base kit,HISPANUS HOME KIT ONE without panels,4838
+E,Solar panels,8 x JA Solar 605 W example array = 4.84 kWp,800
+E,Other materials,Mounting/cabling/protection allowance,300-800
+E,Estimated total,Equipment and materials only; excludes labour and generator,5938-6438
+E,Inverter assumption,5 kW inverter assumed from listing description,
+E,Battery assumption,10.24 kWh nominal assumed (2 x 5.12 kWh),
+E,MPPT assumption,Assume integrated MPPT; array input compatibility assumed,
+E,Generator assumption,Assume generator input accepts 230 V single-phase 50 Hz; set charge power so total load stays within 10 kW continuous,
+E,Links,"Kit https://www.leroymerlin.pt/produtos/kit-solar-de-autoconsumo-com-bateria-10-24-kwh-hispanus-home-kit-one-inversor-5-kw-sem-paineis-88939495.html | Panels https://www.leroymerlin.pt/produtos/marcas/ja-solar/",
+E,Conclusion,"Relatively expensive once panels are added; integrated MPPT and battery configuration are budget assumptions."
