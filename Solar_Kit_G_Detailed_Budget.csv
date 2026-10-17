@@ -1,0 +1,10 @@
+System,Item,Assumption / description,Estimated price EUR
+G,Kit,Victron MultiPlus 48/5000 + 4 Eleksol 12.8 V 210 Ah batteries + accessories + Victron MPPT 250/100,3999
+G,Solar panels,8 x JA Solar 605 W example array = 4.84 kWp,800
+G,Other materials,Mounting/cabling/protection allowance,300-800
+G,Estimated total,Equipment and materials only; excludes labour and generator,5099-5599
+G,Battery bank,4 x 12.8 V 210 Ah in series = 51.2 V, 210 Ah, about 10.75 kWh nominal,
+G,Power limit assumption,If each battery is limited to 100 A continuous, bank power is about 5.1 kW DC before losses; full 5 kW AC output may be constrained,
+G,Generator assumption,10 kW continuous, 230 V single-phase, 50 Hz; connect through AC-in and configure limits,
+G,Link,https://www.leroymerlin.pt/produtos/kit-solar-victron-multiplus-48-5000-4x-baterias-litio-eleksol-210ah-acessorios-77843132.html,
+G,Conclusion,"Attractive kit price, but series batteries add complexity; a single BMS fault may interrupt the bank, and battery current may limit full inverter output."
